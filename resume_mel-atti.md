@@ -1,18 +1,31 @@
 # El Attiq Mohammed
 **Backend / Full-Stack Developer | Intern / Junior Level**
 
+Backend / Full-Stack Developer (Intern / Junior) with strong foundations in
+systems programming, backend development, and security. Experienced in team
+collaboration and delivering real-world solutions, including e-commerce and
+business platforms. Autonomous, reliable with deadlines, and quick to learn in
+hands-on environments.
+
+
 Location: Morocco  
+Email: medattiq@gmail.com  
 GitHub: https://github.com/simbaattiq
-Email: medattiq@gmail.com
 
 ---
 
 ## Skills
 
 **Languages:** C, C++, JavaScript  
-**C++ Libraries:** STL, Networking libs  
-**Frameworks / Tools:** Node.js, NestJS, Docker, Docker Compose, PostgreSQL, Linux, Bash, Git, Vue.js  
-**Areas of Focus:** Performance programming, Security, DevOps  
+**Web Basics:** HTML, CSS, PHP (foundational knowledge)  
+**C++ Libraries:** STL, Networking and system libraries
+
+**Backend & Tools:**  
+Node.js, NestJS, Docker, Docker Compose, PostgreSQL, Linux, Bash, Git, Vue.js  
+
+**Domains & Focus:**  
+Performance programming, Security, DevOps, e-commerce platforms, SaaS systems,
+business-oriented applications
 
 ---
 
@@ -63,18 +76,22 @@ Email: medattiq@gmail.com
 
 ## Experience
 
-**ESSABHY** – Tech Company  
-- Developed digital solutions using WordPress for websites  
-- Learned practical project workflows in a team environment  
-
 **ITNERA** – Tech Company  
-- Led teams to deliver websites, desktop applications, and IT solutions to clients
-- Oversaw installation, configuration, and deployment of digital solutions
-- Coordinated tasks, managed workflows, and ensured projects met deadlines
-- Applied backend/system expertise to enhance client systems and internal operations
+- Led and supervised teams delivering websites, desktop applications, and IT solutions  
+- Coordinated project execution from requirements to deployment  
+- Installed, configured, and deployed digital solutions and technical equipment for clients  
+- Contributed to e-commerce platforms, SaaS-style tools, and business applications  
+- Provided technical support and ensured system reliability for client environments  
+- Applied backend and system knowledge to improve workflows and solution quality
+
+**ESSABHY** – Tech Company  
+- Developed WordPress-based websites and business tools  
+- Participated in team-based project delivery and client support  
+- Gained exposure to production environments and client-facing solutions 
 
 **Freelance Projects**  
-- Created websites using WordPress and Elementor  
-- Delivered client projects with functional, responsive designs  
+- Built responsive websites using WordPress and Elementor  
+- Worked autonomously with clients to deliver solutions on time  
+- Managed requirements, execution, and final delivery independently
 
 ---
