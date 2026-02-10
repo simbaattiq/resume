@@ -14,7 +14,7 @@ GitHub: https://github.com/simbaattiq
 
 ---
 
-## Skills
+# Skills
 
 **Languages:** C, C++, JavaScript  
 **Web Basics:** HTML, CSS, PHP (foundational knowledge)  
@@ -29,40 +29,40 @@ business-oriented applications
 
 ---
 
-## Projects
+# Projects
 
-### ft_transcendence — Backend
+**ft_transcendence — Backend**   
 - Developed backend APIs using NestJS and Node.js  
 - Implemented JWT authentication and secure data handling  
 - Dockerized services for deployment  
 
-### Cub3d
+**Cub3d**   
 - Implemented parsing and validation logic  
 - Focused on security and memory safety  
 
-### minishell
+**minishell**   
 - Built a custom shell with parsing, error handling, and secure execution  
 - Reinforced understanding of system calls and shell internals  
 
-### pipex
+**pipex**  
 - Implemented Linux pipes and inter-process communication  
 - Explored system calls and low-level Linux internals  
 
-### webserv
+**webserv**  
 - Created a non-blocking HTTP server handling multiple clients  
 - Developed backend request processing and response handling  
 
-### philosophers
+**philosophers**  
 - Implemented multithreading with mutexes  
 - Solved synchronization challenges for concurrent processes  
 
-### born2beroot
+**born2beroot**
 - Practiced system administration and Linux server setup  
 - Configured user permissions, services, and automation scripts  
 
 ---
 
-## Education
+# Education
 
 **University of Language and Human Science** — English Studies License (2020)  
 - Studied linguistic structures, language formation, and genres  
@@ -74,7 +74,7 @@ business-oriented applications
 
 ---
 
-## Experience
+# Experience
 
 **ITNERA** – Tech Company  
 - Led and supervised teams delivering websites, desktop applications, and IT solutions  
